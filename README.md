@@ -1,3 +1,7 @@
+Hey bro have you implemented it? and got the same desired results please guide me 
+please contact me at zeeshankhan0.786555@gmail.com then i will get your whatsapp or any social media app to contact please help me to implement it thats why creating PR so that you can see it
+
+
 # Anomaly Detection
 ![blogimage-450476-](https://github.com/quant-dot-ai/predictive-maintenance-using-autoencoders/assets/146693417/35ec0a18-bb01-4d7f-9517-627db3d5c20b)
 _[image source:](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftracked.ai%2Fblog-desc.aspx%3Fu%3Danomaly-detection-as-a-data-analytics-professional&psig=AOvVaw17vACJrQjgemp_KrBwLi5q&ust=1706668451352000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCLj6iciJhIQDFQAAAAAdAAAAABAE)_
